@@ -7,8 +7,10 @@
         This is a furniture showroom app designed for people to have a basic idea about the furnitures.
     </description>
     <author email="support@pocketapp.in" href="http://pocketapp.in">
-        Samaresh Bisoi
+        PocketApp.in
     </author>
+	
+	<preference name="windows-identity-name" value="26744SamareshBisoi.JayInterior" />
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
