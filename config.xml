@@ -1,4 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  <plist version="1.0">
+    <dict>
+     <key>NSPhotoLibraryUsageDescription</key>
+<string>Photo Library Access Warning</string>
+
+    </dict>
+  </plist>
 <widget id="in.jayinterior.jayinterior" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Jay Interior</name>
     <description>
