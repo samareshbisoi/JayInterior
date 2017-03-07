@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 
  
-<widget id="in.jayinterior.jay_interior" version="1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="in.jayinterior.jay_interior" version="1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Jay Interior</name>
     <description>
         This is a furniture showroom app designed for people to have a basic idea about the furnitures.
